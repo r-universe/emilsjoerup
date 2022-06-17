@@ -1,0 +1,10 @@
+[
+  {
+    "package": "DriftBurstHypothesis",
+    "oncran": true
+  },
+  {
+    "package": "HARModel",
+    "oncran": true
+  }
+]
