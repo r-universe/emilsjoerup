@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DriftBurstHypothesis"]
 	path = DriftBurstHypothesis
 	url = https://github.com/emilsjoerup/driftbursthypothesis
-	shallow = true
-	registered = true
 [submodule "HARModel"]
 	path = HARModel
 	url = https://github.com/emilsjoerup/harmodel
-	shallow = true
-	registered = true
