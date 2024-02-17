@@ -5,6 +5,3 @@
 [submodule "DriftBurstHypothesis"]
 	path = DriftBurstHypothesis
 	url = https://github.com/emilsjoerup/driftbursthypothesis
-[submodule "HARModel"]
-	path = HARModel
-	url = https://github.com/emilsjoerup/harmodel
